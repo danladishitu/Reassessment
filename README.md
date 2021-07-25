@@ -1,8 +1,8 @@
 # Reassessment
 
-##ML for an online computer store
+## ML for an online computer store
 
-###Building a machine learning model to improve the effectiveness of an email advertising campaign.
+### Building a machine learning model to improve the effectiveness of an email advertising campaign.
 
 The model will help in the pursuit of targeted email marketing: for each campaign, emails will be delivered to just those clients who are most likely to purchase the advertised product.
 
