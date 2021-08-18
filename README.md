@@ -11,7 +11,8 @@
 - They are currently employing the so-called batch-and-blast method (which entails sending all emails to their whole database), but they are concerned that this would result in high unsubscribe rates and reduce the overall efficacy of the campaigns.
 
 ### Proposed solution
-The model will help in the pursuit of targeted email marketing: for each campaign, emails will be delivered to just those clients who are most likely to purchase the advertised product.
+
+- The model will help in the pursuit of targeted email marketing: for each campaign, emails will be delivered to just those clients who are most likely to purchase the advertised product.
 
 
 I have used Python and its diverse library to build the machine learning pipeline to tackle this classification problem. To improve readability, the code was written in a Jupyter notebook.
